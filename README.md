@@ -11,5 +11,5 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **mtpatel1824@gmail.com**
+- 📫 How to reach me **maharshipatel9094work@gmail.com**
 
