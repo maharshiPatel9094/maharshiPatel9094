@@ -18,4 +18,5 @@
 <h3>Frameworks: React, NextJs</h3>
 <h3>Databases: MongoDb, PostgreSql</h3>
 <h3>Backend: Node.Js, Express.Js</h3>
+<h3>Others: AcertainityUi, AppWrite, Figma</h3>
 
