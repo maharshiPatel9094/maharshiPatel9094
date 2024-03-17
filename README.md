@@ -14,9 +14,8 @@
 - 📫 How to reach me **maharshipatel9094work@gmail.com**
 
 <h2>SKILLS</h2>
-<h3>
-Languages: Java Script, Type Script, Python
-Frameworks: React, NextJs
-Databases: MongoDb, PostgreSql
-Backend: Node.Js, Express.Js  
-</h3>
+<h3>Languages: Java Script, Type Script, Python</h3>
+<h3>Frameworks: React, NextJs</h3>
+<h3>Databases: MongoDb, PostgreSql</h3>
+<h3>Backend: Node.Js, Express.Js</h3>
+
