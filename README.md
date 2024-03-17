@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **maharshipatel9094work@gmail.com**
 
-<h2 style= text-centre>SKILLS</h2>
+<h2 style= "text-centre">SKILLS</h2>
 <h3>Languages: Java Script, Type Script, Python</h3>
 <h3>Frameworks: React, NextJs, Vue.js, TailWind, Bootstrap</h3>
 <h3>Databases: MongoDb, PostgreSql</h3>
