@@ -18,5 +18,5 @@
 <h3>Frameworks: React, NextJs, Vue.js, TailWind, Bootstrap</h3>
 <h3>Databases: MongoDb, PostgreSql</h3>
 <h3>Backend: Node.Js, Express.Js</h3>
-<h3>Others: AcertainityUi, AppWrite, Figma, Vite, PostMan, Vite</h3>
+<h3>Others: AcertainityUi, AppWrite, Figma, Vite, PostMan</h3>
 
